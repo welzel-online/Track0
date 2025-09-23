@@ -6,7 +6,7 @@
 #
 # Copyright (c) 2025 by Welzel-Online
 #******************************************************************************
-cmake_minimum_required( VERSION 3.6 )
+cmake_minimum_required( VERSION 3.10 )
 
 project( Track0 )
 

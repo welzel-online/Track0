@@ -20,11 +20,11 @@
 #define STRPRODUCTVER       "0, 0, 1, $WCREV$\0"
 #define STRVERDATE          "$WCDATE=%d.%m.%Y$\0"
 
-#define CM_VERMAJOR         0
-#define CM_VERMINOR         0
-#define CM_VERMICRO         1
-#define CM_VERBUILD         $WCREV$
-#define CM_VERDATE          "$WCDATE$"
+// #define CM_VERMAJOR         0
+// #define CM_VERMINOR         0
+// #define CM_VERMICRO         1
+// #define CM_VERBUILD         $WCREV$
+// #define CM_VERDATE          "$WCDATE$"
 
 
 #endif
